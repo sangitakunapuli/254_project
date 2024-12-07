@@ -12,6 +12,12 @@
 		     (|mult_n a_i| s1)
 		     (|mult_n b_i| s1))))
 
+; uncomment this to test validity using demorgan's law
+; (assert (not (= (|mult_n s_o| s1)
+;		   (bvmul
+;		     (|mult_n a_i| s1)
+;		     (|mult_n b_i| s1)))))
+
 ; is there such a model?
 (check-sat)
 ;(get-model)
