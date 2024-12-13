@@ -10,5 +10,5 @@ In order to run the code, you must have the necessary tools installed. We used:
 * RISCV-Formal (https://github.com/YosysHQ/riscv-formal, https://yosyshq.readthedocs.io/projects/sby/en/latest/install.html)
 
 ## References:
-### Running one test on RISC-V Formal: from the [core]/checks directory
+### Running one test on RISC-V Formal: from the [core]/checks directory within RISCV Formal
 `% sby -f insn_mul_ch0.sby`
