@@ -2,6 +2,8 @@
 
 This repository contains the code from our project (F24, CS254). This repository has all of the code we worked on, but not all of it is up-to-date and working. See the final folder for the code and test files we used in our results.
 
+Link to our presentation: https://docs.google.com/presentation/d/1HqbG3PnSIM3wVC9dsR98CWF8l5sv5sw9JS5GDnvJbVw/edit?usp=sharing
+
 In order to run the code, you must have the necessary tools installed. We used:
 * Yosys (https://github.com/YosysHQ/yosys)
 * Z3 (https://pypi.org/project/z3-solver/)
